@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep  2 23:14:45 2018
+@AUTHOR PRAVEEN KUMAR
 
 """
 
@@ -67,6 +68,6 @@ connect()
 #delete(1)
 #update(1,'vikash','kumar','qasselephant','fucku')
 
-print(search(name='saif'))
+print(search(name='armaan'))
 #print(view())
 
